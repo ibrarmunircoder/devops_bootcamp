@@ -17,3 +17,6 @@ Virtualization uses software called hypervisors to create multiple virtual compu
 
 #### Main use case of Type 1 Hypervisor
 - Efficient usage of Hardware resources
+
+#### Why are companies adopting virtualization?
+![Why Adoption](./images/image-5.png)
