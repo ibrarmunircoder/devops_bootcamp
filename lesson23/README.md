@@ -29,3 +29,25 @@ Also, you can have different versions of the same application running on your lo
 ## Improve Application Deployment
 
 ![Before](./images/image-8.png)
+
+
+## Container Vs Images
+
+![Diff](./images/image-10.png)
+![Diff](./images/image-17.png)
+
+## Container VS VM
+![VM vs Container](./images/image-11.png)
+![VM vs Container](./images/image-12.png)
+![VM vs Container](./images/image-13.png)
+
+## Docker Architecture and its components
+
+![Docker Engine](./images/image-14.png)
+
+Docker server or Daemon has its own parts.
+
+Docker Runtime = Responsible for pulling images, managing container lifercycle (creating, updating and deleting)
+
+![Docker Server](./images/image-15.png)
+![Docker Server](./images/image-16.png)
